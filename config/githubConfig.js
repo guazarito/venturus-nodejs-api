@@ -15,5 +15,4 @@ const configGithub = {
       }
 }
 
-
 module.exports = configGithub;
