@@ -1,13 +1,12 @@
 Venturus API Rest
 
-Steps to run the API server:
-  1)open the terminal on the root folder of this project and run: <b>npm install</b>
+<b>Steps to run the API server:</b><br>
+  1)open the terminal on the root folder of this project and run: <b>npm install</b><br>
   2)then: <b>npm start</b>
   
 The server will start listenning on the port 3000.
 
-Steps to run the front-end angular aplication: 
-
+<b>Steps to run the front-end angular aplication:</b>
  1) go to the folder "angular-front" into this project, 
  2) open the terminal and run: <b>npm install</b>
  3) then: <b>ng serve</b>
