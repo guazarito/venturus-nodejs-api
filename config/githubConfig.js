@@ -1,6 +1,5 @@
 
 const configGithub = {
-    token: 'bbfe574775e0746f095dace8dd3a7db47d79858a',
     httpOptions: {
         host: 'api.github.com',
         method: 'GET',
