@@ -13,3 +13,4 @@ The server will start listenning on the port 3000.
     
    The front-end will be opened on the browser: <b>localhost:4200</b>
  
+<b>Please see the Wiki for a brief documentation</b>
