@@ -1,0 +1,22 @@
+{
+  "name": "api-rest-venturus",
+  "version": "1.0.0",
+  "description": "Api Rest Venturus LibQuality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js",
+    "js-watch": "nodemon -e ts -w ./src -x npm run js-watch:serve"
+  },
+  "author": "Gustavo Azarito Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "lodash.where": "^3.1.0",
+    "sqlite-sync": "^0.3.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
